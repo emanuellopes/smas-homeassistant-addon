@@ -1,0 +1,11 @@
+{
+  "domain": "smas",
+  "name": "Smas Addon",
+  "version": "0.0.1",
+  "documentation": "https://example.com",
+  "dependencies": [],
+  "requirements": [],
+  "codeowners": ["@emanuellopes"],
+  "integration_type": "hub",
+  "config_flow": true
+}
